@@ -1,0 +1,4 @@
+target/
+.idea/
+*.class
+Java/Maven-д зориулсан .gitignore файл (жишээ нь, target/, .idea/, *.class хасах).
